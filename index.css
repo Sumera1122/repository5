@@ -1,0 +1,59 @@
+body{
+    background-color: white;
+    margin: 20px;
+    padding: 0;
+}
+form{
+    width: 80%;
+    margin: auto;
+    margin: 10px;
+    background-color: rgb(226, 247, 36);
+    border: 4px solid rgb(164, 234, 78);
+    box-shadow: 2px;
+    border-radius: 10px;
+    text-align: center;
+    color: #db85cd;
+}
+
+h1{
+    font-weight: 10px;
+        text-align: center;
+        color: #db85cd;
+
+    
+}
+#PInfo{
+    text-align: center;
+    max-height:200px;
+    border:2px solid #24061d;
+    border-radius: 15px;
+    box-shadow: 4px black;
+    
+    
+
+
+}
+#Edu{
+    text-align: left;
+    border: 2px solid #24061d;
+    border-radius: 15px;
+    box-shadow: 4px black;
+    
+
+}
+ #Exp{
+    text-align: left;
+    border: 2px solid #24061d;
+    border-radius: 15px;
+    box-shadow: 4px black;
+    
+ }
+ #Skl{
+    text-align: left;
+    border: 2px solid #24061d;
+    border-radius: 15px;
+    box-shadow: 4px black;
+    
+ }
+
+ 
